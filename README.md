@@ -19,3 +19,4 @@ NLTK (Natural Language Toolkit)
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/65aa113e-2ad9-467a-a1e2-2fc4d0a92d48)
